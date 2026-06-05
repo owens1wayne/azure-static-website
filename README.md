@@ -4,7 +4,7 @@ Deployed a public-facing static website on Azure Blob Storage using serverless P
 # Lab 01: Hosting Your First Static Website on Azure Blob Storage
 
 ![Azure](https://img.shields.io/badge/Azure-Storage-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-brightgreen)
+
 ![Hosting](https://img.shields.io/badge/Hosting-Serverless-blueviolet)
 ![Deployed Via](https://img.shields.io/badge/Deployed%20Via-Azure%20Portal-blue)
 
