@@ -220,7 +220,7 @@ Getting something working is step one. Understanding the security implications o
 
 ## Cleanup / Teardown
 
-Always clean up after a lab. It's a professional habit, and it protects your Azure credits.
+Always clean up after any project. It's a professional habit, and it protects your Azure credits.
 
 **Option 1 — Azure Portal:**
 1. Go to **Resource Groups** and open `rg-lab01-[yourname]`.
