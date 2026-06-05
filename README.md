@@ -185,7 +185,7 @@ Nothing fancy here — just enough HTML to prove the concept works.
 
 You should see your "Hello from the Cloud!" page load live in the browser.
 
-**That's a real, publicly accessible website — deployed on Azure with no servers, no runtime, and no infrastructure to manage.** Not bad for a first deployment. 🎉
+**That's a real, publicly accessible website — deployed on Azure with no servers, no runtime, and no infrastructure to manage.** Not bad for a first deployment. 
 
 ---
 
