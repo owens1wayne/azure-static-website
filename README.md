@@ -1,6 +1,6 @@
 # azure-static-website
 
-[ ] Watch Me Work(https://loom.com/share/dec13f042471437f96dc0e6f0df61804)
+![Watch Me Work](https://loom.com/share/dec13f042471437f96dc0e6f0df61804)
 
 Deployed a public-facing static website on Azure Blob Storage using serverless PaaS hosting — no VMs, no web servers, no infrastructure to manage. Covers resource group creation, storage account configuration, static website enablement, and HTTPS endpoint deployment on Azure.
 
