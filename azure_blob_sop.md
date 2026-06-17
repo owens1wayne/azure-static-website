@@ -8,7 +8,7 @@ This SOP explains how to create an Azure Resource Group, provision a Storage Acc
 
 **1. Create a Resource Group in Azure** [0:24](https://loom.com/share/dec13f042471437f96dc0e6f0df61804?t=24)
 
-![generated-image-at-00:00:24](https://loom.com/i/956832e86417427c9fb8b2cbe121a333?workflows_screenshot=true)
+![Step 1 - Create a Resource Group](screenshots/step1.png)
 
 - Sign in to the **Microsoft Azure portal**.
 - Navigate to **Resource Groups**.
@@ -18,7 +18,7 @@ This SOP explains how to create an Azure Resource Group, provision a Storage Acc
 
 **2. Create a Storage Account for the Website** [1:11](https://loom.com/share/dec13f042471437f96dc0e6f0df61804?t=71)
 
-![generated-image-at-00:01:11](https://loom.com/i/f22201f5981e400a85796d40f886d21d?workflows_screenshot=true)
+![Step 2 - Create a Storage Account](screenshots/step2.png)
 
 - Go to **Storage Accounts** and select **Create**.
 - Choose the **resource group** created in the previous step.
@@ -31,7 +31,7 @@ This SOP explains how to create an Azure Resource Group, provision a Storage Acc
 
 **3. Enable Static Website Hosting** [2:24](https://loom.com/share/dec13f042471437f96dc0e6f0df61804?t=144)
 
-![generated-image-at-00:02:24](https://loom.com/i/dcc8efebd71c465d88d3a1f5f5b7e898?workflows_screenshot=true)
+![Step 3 - Enable Static Website Hosting](screenshots/step3.png)
 
 - Open the newly created **Storage Account**.
 - In the left menu, find **Data Management** and select **Static website**.
@@ -42,7 +42,7 @@ This SOP explains how to create an Azure Resource Group, provision a Storage Acc
 
 **4. Upload Website Files to the $web Container** [3:17](https://loom.com/share/dec13f042471437f96dc0e6f0df61804?t=197)
 
-![generated-image-at-00:03:17](https://loom.com/i/349838d0aeda4df7bb271df3c0e12752?workflows_screenshot=true)
+![Step 4 - Upload Website Files](screenshots/step4.png)
 
 - Go to **Data Storage** &gt; **Containers**.
 - Open the special container named `$web`.
@@ -53,7 +53,7 @@ This SOP explains how to create an Azure Resource Group, provision a Storage Acc
 
 **5. Verify the Website Is Live** [4:25](https://loom.com/share/dec13f042471437f96dc0e6f0df61804?t=265)
 
-![generated-image-at-00:04:25](https://loom.com/i/15b3024934dc474d81913fc6fdca1c30?workflows_screenshot=true)
+![Step 5 - Verify the Website Is Live](screenshots/step5.png)
 
 - Return to the **Static website** settings page in the Storage Account.
 - Copy the **Primary endpoint URL** shown there.
@@ -63,7 +63,7 @@ This SOP explains how to create an Azure Resource Group, provision a Storage Acc
 
 **6. Clean Up Azure Resources to Avoid Charges** [4:48](https://loom.com/share/dec13f042471437f96dc0e6f0df61804?t=288)
 
-![generated-image-at-00:04:48](https://loom.com/i/793b98f24dd644deacce3754bf942c3e?workflows_screenshot=true)
+![Step 6 - Clean Up Azure Resources](screenshots/step6.png)
 
 - Return to **Resource Groups** in the Azure portal.
 - Open the resource group created for this deployment.
